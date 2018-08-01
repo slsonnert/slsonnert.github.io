@@ -12,5 +12,5 @@ body {
 }
 
 # grad {
-  background: linear-gradient(-90deg,green,white);
+  background: linear-gradient(to bottom right,green,white);
 }
