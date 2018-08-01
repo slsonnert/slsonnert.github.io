@@ -1,0 +1,12 @@
+
+
+body {
+  border: 2px solid black;
+  outline: #4CAF50 solid 20px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  /*background-image: url("fern.jpg");
+  background-repeat: repeat-x, no-repeat;
+  */
+}
