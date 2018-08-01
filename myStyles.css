@@ -10,3 +10,7 @@ body {
   background-repeat: repeat-x, no-repeat;
   */
 }
+
+# grad {
+  background: linear-gradient(-90deg,green,white);
+}
