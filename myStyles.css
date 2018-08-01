@@ -9,8 +9,9 @@ body {
   /*background-image: url("fern.jpg");
   background-repeat: repeat-x, no-repeat;
   */
-}
+  # grad {
+    background: linear-gradient(to bottom right,green,white);
+  }
 
-# grad {
-  background: linear-gradient(to bottom right,green,white);
+
 }
